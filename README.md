@@ -7,5 +7,15 @@ We'll explore a real-world dataset to uncover hospital efficiency insights for a
 - **Patient Severity Impact:** Assessment of case severity highlights extreme-severity patients as the primary driver of increased LOS and costs, underscoring the need for severity-adjusted performance metrics.
 - **Care Pathway Optimization:** Findings support the refinement of clinical and operational pathways for high-severity cases to reduce unnecessary delays while maintaining quality of care.
 
+Dashboard quick overview
+
+![Analyzing-healthcare-data](images/healthcare-data.gif)
+
+An interactive Tableau Dashboard can be view [here](https://tinyurl.com/3n3yevsx).
+
+
+# Data Structure & Initial checks
+HealthStat database structure came from a csv file, below is a key dataset attributes that needed in this study. With 30 columns and 26594 rows
+
 ![Analyzing-healthcare-data](images/healthcare-data.gif)
 
