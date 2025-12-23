@@ -1,5 +1,7 @@
 # Project Background
 We'll explore a real-world dataset to uncover hospital efficiency insights for a fictional consulting company called HealthStat. We’ll analyze attributes impacting the patient length of stay (LOS) and cost and work to identify factors contributing to hospital differences. In healthcare, improving efficiency while maintaining high-quality patient care is a top priority. 
++ #### **NOTE** this is a datacamp case study project
+
 
 ### Insights and recommendations are provided on the following key areas
 - **Length of Stay (LOS Variation):** Analysis of LOS differences across hospitals reveals significant variability that is not explained by patient volume alone, indicating opportunities for operational efficiency improvements. 
