@@ -1,0 +1,44 @@
+Case study goals: 
+	-Health has hired you to uncover insights on potential
+	hospital efficiency opportunities.
+	-Leverage TAbleau to create an engaging dashboard
+
+
+6 Framework for healthcare quality
+Safety- Avoiding harm to patients from the care that is intended to help them.
+Effectiveness - How well a healthcare service achieve its intended purpose.
+Timeliness - Reducing delays for both those who receive and those who give care.
+Patient-Centered - Providing care that is respectful of and responsive to individual patient preferences, needs and values.
+Equity - Providing care that does not vary in quality because of personal characteristics.
+Efficiency - Avoiding waste, including waste of equipment, supplies, ideas and energy.
+
+-We will focus on Efficiency
+
+important indicator of efficiency
+-Length of stay (LOS) - the duration in days for a patient stay in hospital
+
+-Reducing LOS can lower costs, increase capacity, and improve throughput.
+-Factors impacting LOS: patient age, health status, procedure, complications, mortality, risk, hospital size, etc.
+
+the focus of study is Patient population for analysis
+	Hip replacement surgery
+
+-Patients with hip pain may require elective hip replacement surgery
+-Damaged bone and cartilage is removed and replaced with prosthetic components
+-Arrival to hospitals with surgery on day zero, stay 0-2days
+
+
+The dataset
+-NY state-wide hospitals discharge data for 2016 (anonymous)
+-Elective hip replacement surgery patients
+-One single table with 30 columns
+-Each row represents a single inpatient stay from admission to discharge
+
+
+
+Insights
+1. Unsurprisingly NYC has the highest number of hospitals which as 29.14% across Health Service Area
+2. Among top 15 hospitals by discharge volume the longest avg LOS is 3.22 days
+with Surgeons working on Syosset Hospital, while the highest overall cost per discharge was NYU Lutheran Medical Center which has $86k and 2.6days LOS.
+3. A higher number of surgeons per patient doesn't mean higher LOS and costs.
+4. On average, patient illness with an Extreme severity resulted in much higher LOS and costs.
