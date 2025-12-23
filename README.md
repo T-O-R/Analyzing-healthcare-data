@@ -17,5 +17,13 @@ An interactive Tableau Dashboard can be view [here](https://tinyurl.com/3n3yevsx
 # Data Structure & Initial checks
 HealthStat database structure came from a csv file, below is a key dataset attributes that needed in this study. With 30 columns and 26594 rows
 
-![Analyzing-healthcare-data](images/healthcare-data.gif)
+![Analyzing-healthcare-data](dataset/dataset-key-attributes.png)
+
+
+# Executive Summary
+
+### Overview of Findings
+The analysis of elective hip replacement cases across New York hospitals reveals substantial variation in length of stay (LOS) and cost per discharge, even among facilities with similar patient volumes. Hospital volume alone does not explain these differences, and higher LOS does not consistently translate to higher costs. Instead, patient severity emerges as the primary driver, with extreme-severity cases significantly increasing both LOS and costs. Additionally, staffing factors such as the number of surgeons per patient show minimal impact on efficiency outcomes. These findings highlight opportunities for severity-adjusted benchmarking, targeted intervention on outlier hospitals, and improved care pathway optimization to enhance operational efficiency without compromising quality of care.
+
+
 
